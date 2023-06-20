@@ -809,9 +809,9 @@ public class ModelSettingFragment extends BaseLazyFragment {
 
     String getSearchView(int type) {
         if (type == 0) {
-            return "文字列表";
-        } else {
             return "缩略图";
+        } else {
+            return "文字列表";
         }
     }
 
@@ -825,9 +825,9 @@ public class ModelSettingFragment extends BaseLazyFragment {
 
     String getThemeView(int type) {
         if (type == 0) {
-            return "奈飞";
-        } else if (type == 1) {
             return "哆啦";
+        } else if (type == 1) {
+            return "奈飞";
         } else if (type == 2) {
             return "百事";
         } else if (type == 3) {
