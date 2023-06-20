@@ -226,14 +226,14 @@
             android:orientation="horizontal"
             android:padding="@dimen/vs_15">
 
-      <!--       <ImageView
+             <ImageView
                 android:id="@+id/hm_drive"
                 android:layout_width="@dimen/vs_40"
                 android:layout_height="match_parent"
                 android:layout_margin="@dimen/vs_3"
                 android:alpha="0.9"
                 app:srcCompat="@drawable/hm_folder" />
-
+<!--
            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -248,9 +248,9 @@
                 android:textColor="@color/color_FFFFFF_90"
                 android:textSize="@dimen/ts_24"
                 android:textStyle="normal" />
-
-        </LinearLayout>
 -->
+        </LinearLayout>
+
         <LinearLayout
             android:id="@+id/tvSetting"
             android:layout_width="wrap_content"
