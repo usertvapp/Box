@@ -26,7 +26,7 @@
             android:layout_marginBottom="@dimen/vs_8"
             android:background="?attr/color_theme" />
 
-        <TextView
+<!--        <TextView
             android:layout_width="wrap_content"
             android:layout_height="@dimen/vs_50"
             android:drawablePadding="@dimen/vs_10"
@@ -35,7 +35,7 @@
             android:textColor="@android:color/white"
             android:textSize="@dimen/ts_34"
             android:textStyle="bold" />
-
+-->
         <Space
             android:layout_width="0dp"
             android:layout_height="wrap_content"
