@@ -73,7 +73,7 @@
             android:minWidth="@dimen/vs_150"
             android:orientation="horizontal"
             android:padding="@dimen/vs_15">
-<!--
+
             <ImageView
                 android:id="@+id/hm_live"
                 android:layout_width="@dimen/vs_40"
@@ -96,7 +96,7 @@
                 android:textColor="@color/color_FFFFFF_90"
                 android:textSize="@dimen/ts_24"
                 android:textStyle="normal" />
--->
+
         </LinearLayout>
 
         <LinearLayout
